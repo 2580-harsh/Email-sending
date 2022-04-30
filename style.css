@@ -1,0 +1,14 @@
+section{
+    padding: 2opx;
+    margin-top: 80px;
+    border-radius: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    text-align: center;
+
+}
+form-group{
+font-size: large;
+text-align: center;
+display: block;
+}
